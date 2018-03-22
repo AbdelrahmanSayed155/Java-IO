@@ -1,0 +1,11 @@
+
+input (Keyboard , file , program)
+that is input Stream
+
+out (console, file,network,program)
+that is output stream
+
+
+inputStream for read 
+outputStream for write 
+
